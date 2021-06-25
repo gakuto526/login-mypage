@@ -1,0 +1,25 @@
+html{
+    width:1200px;
+}
+
+header img{
+    text-align:center;
+}
+
+.member_info{
+    margin-top:20px;
+    margin-bottom:20px;
+    margin:0 auto;
+    border:1px solid  lightgray;
+}
+
+main header{
+    text-align:center;
+    width:95%;
+    border-bottom:1px solid green;
+}
+
+main img{
+    float:left;
+    padding-left:20px;
+}
